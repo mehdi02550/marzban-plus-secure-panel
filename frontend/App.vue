@@ -1,0 +1,1 @@
+<template><div>Frontend App</div></template>
